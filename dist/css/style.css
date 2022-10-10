@@ -170,6 +170,7 @@
         background-color: #fff;
         height: auto;
         padding: 20px 0;
+        border-top: 2px solid #ddd;
     }
     .navigation1 ul{
         display: flex;
